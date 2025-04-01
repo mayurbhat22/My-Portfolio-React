@@ -347,7 +347,7 @@ const App = () => {
           src="./assets/arrow.png"
           alt="Arrow icon"
           className="icon arrow"
-          onClick={() => scrollToSection("#projects")}
+          onClick={() => scrollToSection("#experience")}
         />
       </section>
 
@@ -444,7 +444,7 @@ const App = () => {
           src="./assets/arrow.png"
           alt="Arrow icon"
           className="icon arrow"
-          onClick={() => scrollToSection("#contact")}
+          onClick={() => scrollToSection("#projects")}
         />
       </section>
 
